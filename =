@@ -1,0 +1,10 @@
+Downloading/unpacking diesel
+  Running setup.py (path:/data/programming/python/networking_cookbook/build/diesel/setup.py) egg_info for package diesel
+    
+Downloading/unpacking 3.0
+  Real name of requirement 3.0 is 3-1
+  Could not find any downloads that satisfy the requirement 3.0
+  Some externally hosted files were ignored (use --allow-external 3.0 to allow).
+Cleaning up...
+No distributions at all found for 3.0
+Storing debug log for failure in /root/.pip/pip.log
