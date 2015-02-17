@@ -1,4 +1,5 @@
-#!/data/programming/python/networking_cookbook/bin/python
+#!/usr/bin/env python
+#/data/programming/python/networking_cookbook/bin/python
 
 import socket
 import sys

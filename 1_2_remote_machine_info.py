@@ -1,4 +1,4 @@
-#!/data/programming/python/networking_cookbook/bin/python
+#!/usr/bin/env python
 
 import socket
 

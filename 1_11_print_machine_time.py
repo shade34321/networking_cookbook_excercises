@@ -1,4 +1,4 @@
-#!/data/programming/python/networking_cookbook/bin/python
+#!/usr/bin/evn python
 
 import ntplib
 from time import ctime

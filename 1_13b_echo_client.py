@@ -1,4 +1,4 @@
-#!/data/programming/python/networking_cookbook/bin/python
+#!/usr/bin/env python
 
 import socket
 import sys
@@ -35,4 +35,4 @@ if __name__ == '__main__':
     parser.add_argument('--port', action="store", dest="port", type=int, required=True)
     given_args = parser.parse_args()
     port = given_args.port
-    echo_client(port)
+    cho_client(port)
